@@ -1,5 +1,5 @@
 # weatherTool
- ### A Scraper Weather App
 
- ### Live:
+ ### A Weather Scraper
+ 
  http://www.manuel-valles.com/project/weatherTool/weather.php
